@@ -49,8 +49,8 @@ params:
     hiddenInSingle: false # hide on single page
 
   socialIcons:
-    - name: "email"
-      url: "mailto:c.novella.rausell@gmail.com"
+    #- name: "email"
+      #url: "mailto:c.novella.rausell@gmail.com"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/nrclaudio"
     - name: "github"
