@@ -34,11 +34,11 @@ params:
         enabled: true
         title: "nrclaud.io" # optional default will be site title
         subtitle: "Site under construction, for the latest procrastination updates follow me on socials:"
-        buttons:
-          - name: Twitter
-            url: "https://twitter.com/nr_claudio"
-          - name: Github
-            url: "https://github.com/nrclaudio"
+        #buttons:
+          #- name: Twitter
+            #url: "https://twitter.com/nr_claudio"
+          #- name: Github
+            #url: "https://github.com/nrclaudio"
 
   # List View
   hideDescriptionInList: false
@@ -55,6 +55,8 @@ params:
       url: "https://www.linkedin.com/in/nrclaudio"
     - name: "github"
       url: "https://github.com/nrclaudio"
+    - name: "twitter"
+      url: "https://twitter.com/nr_claudio"
 
   # text search
   fuseOpts:
