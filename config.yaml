@@ -33,12 +33,21 @@ params:
   profileMode:
         enabled: true
         title: "nrclaud.io" # optional default will be site title
+<<<<<<< HEAD
         subtitle: "Uncovering the hidden beauty of biological data and the natural world through computer science and photography, in no particular order"
         buttons:
           - name: Twitter
             url: "https://twitter.com/nr_claudio"
           - name: Github
             url: "https://github.com/nrclaudio"
+=======
+        subtitle: "Site under construction, for the latest procrastination updates follow me on socials:"
+        #buttons:
+          #- name: Twitter
+            #url: "https://twitter.com/nr_claudio"
+          #- name: Github
+            #url: "https://github.com/nrclaudio"
+>>>>>>> 023f079e713a22c1de12063ba25f3d03e5d713e5
 
   # List View
   hideDescriptionInList: false
@@ -49,12 +58,14 @@ params:
     hiddenInSingle: false # hide on single page
 
   socialIcons:
-    - name: "email"
-      url: "mailto:c.novella.rausell@gmail.com"
+    #- name: "email"
+      #url: "mailto:c.novella.rausell@gmail.com"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/nrclaudio"
     - name: "github"
       url: "https://github.com/nrclaudio"
+    - name: "twitter"
+      url: "https://twitter.com/nr_claudio"
 
   # text search
   fuseOpts:
