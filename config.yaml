@@ -34,16 +34,6 @@ params:
         enabled: true
         title: "nrclaud.io" # optional default will be site title
         subtitle: "Uncovering the hidden beauty of biological data and the natural world through computer science and photography, in no particular order"
-        buttons:
-          - name: Twitter
-            url: "https://twitter.com/nr_claudio"
-          - name: Github
-            url: "https://github.com/nrclaudio"
-        #buttons:
-          #- name: Twitter
-            #url: "https://twitter.com/nr_claudio"
-          #- name: Github
-            #url: "https://github.com/nrclaudio"
 
   # List View
   hideDescriptionInList: false
