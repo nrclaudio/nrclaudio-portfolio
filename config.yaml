@@ -33,7 +33,7 @@ params:
   profileMode:
         enabled: true
         title: "nrclaud.io" # optional default will be site title
-        subtitle: "Site under construction, for the latest procrastination updates follow me on socials:"
+        subtitle: "Uncovering the hidden beauty of biological data and the natural world through computer science and photography, in no particular order"
         buttons:
           - name: Twitter
             url: "https://twitter.com/nr_claudio"
